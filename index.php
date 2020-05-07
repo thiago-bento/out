@@ -6,10 +6,7 @@ require 'autoload.php';
 
 //require 'services/ArraysUtils.php';
 
-use src\Services\ArrayUtils;
-
-
-
+use Services\ArrayUtils;
 
 $correntistas_e_compras = [
     "Giovanni",
