@@ -20,6 +20,7 @@ $correntistas_e_compras = [
 ];
 
 echo "<pre>";
+echo "nova"
 
 var_dump($correntistas_e_compras);
 
